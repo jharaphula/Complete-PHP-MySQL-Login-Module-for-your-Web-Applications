@@ -89,7 +89,9 @@ A seamless user experience (UX) in login and signup processes increases engageme
 
 # Future Trends in User Management
 
-- Passwordless Authentication: Using biometrics or magic links instead of passwords. - AI-Powered Security: Detecting suspicious login attempts with machine learning. - Decentralized Identity: Blockchain-based user verification.
+- Passwordless Authentication: Using biometrics or magic links instead of passwords.
+- AI-Powered Security: Detecting suspicious login attempts with machine learning.
+- Decentralized Identity: Blockchain-based user verification.
 
 # Conclusion
 
